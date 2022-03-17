@@ -5,7 +5,8 @@
 <h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
 
 <p align= "center">
-
+<img src="https://img.shields.io/badge/Html-HTML-brown"/>
+  <img src="https://img.shields.io/badge/Css-CSS-white"/>
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
 <img src="https://img.shields.io/badge/React-React-blue"/>
 <img src="https://img.shields.io/badge/Node-node-green"/>
