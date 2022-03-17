@@ -52,10 +52,10 @@
 </div>
 
 <h1 align="center">STATS</h1>
-    <p align="center">
+    <p align="center" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajachoudhary&show_icons=true&locale=en&layout=compact"
-            alt="suryakant" width="410" height="200px" background-color="red"/>
+            alt="suryakant" width="410" height="200px" />
         &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rajachoudhary&show_icons=true&locale=en"
-            alt="suryakant" width="410" height="200px" background-color="red"/>
+            alt="suryakant" width="410" height="200px" />
     </p>
 
